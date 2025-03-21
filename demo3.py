@@ -1,1 +1,1 @@
-print('vinay 123')
+print('vinay')
